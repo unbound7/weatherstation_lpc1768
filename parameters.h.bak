@@ -1,0 +1,3 @@
+extern double humidity;
+extern double temperature;
+extern uint32_t bits[5]; // buffer to receive data
